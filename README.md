@@ -10,18 +10,28 @@ The AutoCareHub App is a big step forward in the field of mobile applications fo
 
 The scope of the AutoCareHub App encompasses the key functionalities and boundaries of the project, defining what will be the scope.
 1. User Registration and Authentication: Users can create accounts and log in securely.
+
 ![image](https://github.com/khizarsiddiqui/AutoCareHub/assets/50682011/df54ef5f-8e83-4e8c-8dac-c03796ebf7ee) ![image](https://github.com/khizarsiddiqui/AutoCareHub/assets/50682011/b7518847-2b3f-429c-97b9-775659ae0913)
+
 2. Car Service Packages Booking: Users can browse, and book a car service package from app.
+
 ![image](https://github.com/khizarsiddiqui/AutoCareHub/assets/50682011/6825446e-edfe-4b6a-a5dc-198dae924b20)
+
 3. Doorstep Services: Provides doorstep car services and maintenance that provide convenience to users who don't have to visit a physical repair shop.
 
 ![image](https://github.com/khizarsiddiqui/AutoCareHub/assets/50682011/f7bd91dd-620a-4c9d-bd79-c2d2360ccfb2)
+
 4. Spare Parts Procurement: Users can search, select, and purchase auto parts directly through the app's interface.
+
 ![image](https://github.com/khizarsiddiqui/AutoCareHub/assets/50682011/05ed133c-1bc1-4635-bd44-4cc29958e09e)
+
 5. Auto Shows : User can register car for auto show and can also book ticket for auto show.
+
 ![image](https://github.com/khizarsiddiqui/AutoCareHub/assets/50682011/e292c0e0-6ee4-4535-ae5b-71980dcfb08d)
 ![image](https://github.com/khizarsiddiqui/AutoCareHub/assets/50682011/e1b49e10-ab0b-488e-a16b-5899960b9f57)
+
 6. Chatbot Integration: An AI-powered chat provides quick responses to user queries, improving user support and accessibility.
+
 ![image](https://github.com/khizarsiddiqui/AutoCareHub/assets/50682011/c0894731-34c1-4a08-a124-1d5c30a0caa3)
 
 
